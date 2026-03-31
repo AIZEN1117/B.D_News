@@ -1,0 +1,89 @@
+*{
+    padding: 0%;
+    background-color: rgb(243, 239, 238);
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    font-size: 35px;
+}
+
+div a{
+    text-decoration: none;
+    font-size: 20px;
+    padding: 5px;
+}
+
+div a:hover{
+    font-size: 25px;
+    color: black;
+}
+
+.box1{
+    display: flex;
+    background-color: aqua;
+    height:500px;
+    width: 400px;
+    justify-content: center;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 10px;
+    line-height: 100px;
+    box-shadow: 5px 5px 10px blueviolet;
+}
+
+div{
+    display: flex;
+    justify-content: center;
+}
+
+.column{
+    display: flex;
+    background-color: rgb(246, 162, 45);
+    padding: 10px;
+    justify-content: center;
+}
+
+.box2{
+    display: flex;
+    background-color: rgb(6, 254, 254);
+    height:500px;
+    width: 400px;
+    justify-content: center;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 10px;
+    line-height: 100px;
+    box-shadow: 5px 5px 10px blueviolet;
+}
+
+.box3{
+    display: flex;
+    background-color: rgb(210, 190, 207);
+    height:500px;
+    width: 400px;
+    justify-content: center;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 10px;
+    line-height: 100px;
+    box-shadow: 5px 5px 10px blueviolet;
+}
+.box4{
+    display: flex;
+    background-color: rgb(215, 202, 239);
+    height:500px;
+    width: 400px;
+    justify-content: center;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 10px;
+    line-height: 100px;
+    box-shadow: 5px 5px 10px blueviolet;
+}
+footer{
+    text-align: center;
+    color: rgb(136, 197, 13);
+}
